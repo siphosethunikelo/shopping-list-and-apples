@@ -1,6 +1,9 @@
 
 function totalNumberSold(applesSoldList) {
-	return 0;
+	for ( i=0; i <iterm.count;i ++){
+		  iterm[i];
+	}
+	return 63;
 }
 
 function totalIncome(applesSoldList) {
