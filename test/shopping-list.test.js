@@ -3,7 +3,7 @@
 describe("shoppinglistfactory",function(){
     it ("this should pass the iterm list",function(){
         let shoppinglistInstance = shoppingfactory();
-            shoppinglist = setlist("");
+            shoppinglist = setlist("apple");
             shoppinglist = setlist("");
             shoppinglist = setlist("");
 
@@ -11,6 +11,6 @@ describe("shoppinglistfactory",function(){
     })
 
      it("this should passed ",function(){
-         let 
-     }
+         let shoppinglistInstance = shoppinglist();
+     })
 })

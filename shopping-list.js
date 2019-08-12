@@ -6,9 +6,9 @@ function shoppinglist(itermlist){
     var countItermslist ={};
     
 }
-for (i=0 ; i< itermlist.length;i ++){
-    iterm[i]
-}
+// for (i=0 ; i< itermlist.length;i ++){
+//     iterm[i]
+// }
 
 
 function setItemList(){
